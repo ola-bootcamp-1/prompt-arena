@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("prompt arena")
+	fmt.Println("test ruleset")
 }
