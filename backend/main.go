@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("test ruleset")
+	fmt.Println("test ruleset for develop branch")
 }
